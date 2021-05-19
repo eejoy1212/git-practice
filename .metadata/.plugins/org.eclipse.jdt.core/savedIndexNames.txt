@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\82105\Desktop\git-practice\.metadata\.plugins\org.eclipse.jdt.core
+2777652801.index
+1902198536.index
+501860281.index
+3055655387.index
+2971138194.index
+3688619054.index
+3079437771.index
+366157463.index
+1744564326.index
+2707196274.index
+593274292.index
+318805298.index
+2097416155.index
+3382622992.index
+77563825.index
+58586343.index
+2055127670.index
+2967731910.index
+780500313.index
+1253525056.index
+2386457509.index
+2919487987.index
